@@ -1,1 +1,1 @@
-{}
+{ "compilerOptions": { "jsx": "preserve", "lib": ["dom", "es2021"], "module": "esnext", "moduleResolution": "bundler", "target": "es2021", "strict": true, "allowJs": false, "skipLibCheck": true, "baseUrl": "." } }
