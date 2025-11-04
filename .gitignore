@@ -1,0 +1,26 @@
+# Node / TS
+node_modules
+dist
+.next
+build
+coverage
+*.log
+
+# Env
+.env
+apps/**/.env*
+supabase/.env*
+
+# Expo
+apps/mobile/.expo
+apps/mobile/android
+apps/mobile/ios
+
+# Supabase
+supabase/.temp
+supabase/.branches
+
+# OS/IDE
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
